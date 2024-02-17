@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "header.h": "c"
+    },
+    "cmake.configureOnOpen": true,
+    "debug.console.wordWrap": false,
+    "cmake.sourceDirectory": "${workspaceFolder}",
+    "C_Cpp.default.includePath": [
+        "C:\\SDL2\\lib"
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
+}
